@@ -71,10 +71,16 @@ $ npm start
 ![](https://github.com/WebertonMendes/BeTheHero/blob/master/screen/webListCases.png?raw=true)<br>
 
 > Página de Loading do app (Mobile)
+<br>
+
 ![](https://github.com/WebertonMendes/BeTheHero/blob/master/screen/mobileScreenLoad.png?raw=true)<br>
 
 > Página Home do app com a listagem dos casos cadastrados (Mobile)
+<br>
+
 ![](https://github.com/WebertonMendes/BeTheHero/blob/master/screen/mobileHome.png?raw=true)<br>
 
 > Página de detalhes do caso selecionado (Mobile)
+<br>
+
 ![](https://github.com/WebertonMendes/BeTheHero/blob/master/screen/mobileViewCase.png?raw=true)<br>
