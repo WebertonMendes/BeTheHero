@@ -9,7 +9,7 @@ BeTheHero foi desenvolvido com intuito de cadastrar ONGs de proteção aos anima
 <br>
 
 ### Projeto desenvolvido com:
-`JS` `CSS` `NodeJS` `Sqlite` `React` `React Native` `Expo`
+`JS` `CSS` `NodeJS` `Sqlite` `React` `React-Native` `Expo`
 <br>
 #### Instalando a aplicação:
 
