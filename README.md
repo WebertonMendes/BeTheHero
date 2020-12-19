@@ -21,9 +21,7 @@ $ git clone "https://github.com/WebertonMendes/BeTheHero.git"
 **2º Passo:** Executar a instalação dos pacotes e dependencias do Frontend:
 ```sh
 $ npm install
-$ npm install axios
-$ npm install react-icons
-$ npm install react-router-dom
+$ npm install axios react-icons react-router-dom
 $ npm start
 ```
 
@@ -36,14 +34,7 @@ $ npm start
 **4º Passo:** Executar a instalação dos pacotes e dependencias do Mobile:
 ```sh
 $ npm install
-$ npm install intl
-$ npm install @react-navigation/native
-$ npm install @react-navigation/stack
-$ npm install expo-mail-composer
-$ npm install react-native-safe-area-context
-$ npm install axios
-$ npm install react-native-gesture-handler
-$ npm install react-native-screens
+$ npm install intl @react-navigation/native @react-navigation/stack expo-mail-composer react-native-safe-area-context axios react-native-gesture-handler react-native-screens
 $ sudo npm install --global expo-cli
 $ expo update
 $ npm start
