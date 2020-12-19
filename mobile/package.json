@@ -16,7 +16,7 @@
     "expo-mail-composer": "~9.0.0",
     "install": "^0.13.0",
     "intl": "^1.2.5",
-    "npm": "^6.14.8",
+    "npm": "^7.3.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.0.tar.gz",
